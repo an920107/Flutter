@@ -1,0 +1,12 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (Edge)",
+            "program": "lib/main.dart",
+            "cwd": "the_basics",
+            "deviceId": "edge",
+            "request": "launch",
+            "type": "dart"
+        }
+    ]
+}
